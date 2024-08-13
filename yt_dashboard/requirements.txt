@@ -1,0 +1,8 @@
+pandas
+streamlit
+seaborn
+matplotlib
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
+isodate
